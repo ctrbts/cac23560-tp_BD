@@ -4,7 +4,8 @@ CREATE TABLE integrador_cac.oradores (
 	apellido varchar(100) NULL,
 	email varchar(255) NOT NULL,
 	tema varchar(100) NOT NULL,
-	fecha_alta TIMESTAMP DEFAULT current_timestamp() NOT NULL
+	fecha_alta TIMESTAMP DEFAULT current_timestamp() NOT NULL,
+	CONSTRAINT oradores_PK PRIMARY KEY (id_orador)
 )
 ENGINE=InnoDB
 DEFAULT CHARSET=utf8mb4
