@@ -1,0 +1,29 @@
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema) 
+VALUES ('Juan', 'Perez', 'juanperez@email.com', 'Inteligencia Artificial');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('Maria', 'Garcia', 'mgarcia@email.com', 'Ciberseguridad');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)  
+VALUES ('Pedro', 'Lopez', 'plopez@email.com', 'Big Data');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('Ana', 'Gomez', 'agomez@email.com', 'Machine Learning');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('Jorge', 'Martinez', 'jmartinez@email.com', 'Blockchain');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('Lucia', 'Fernandez', 'lfernandez@email.com', 'Realidad Virtual');  
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('Daniel', 'Soto', 'dsoto@email.com', 'Realidad Aumentada');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema) 
+VALUES ('Sofia', 'Ruiz', 'sruiz@email.com', 'Internet de las cosas');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('David', 'Gutierrez', 'dgutierrez@email.com', 'Robótica');
+
+INSERT INTO integrador_cac.oradores (nombre, apellido, email, tema)
+VALUES ('Elena', 'Diaz', 'ediaz@email.com', 'Cloud Computing');
