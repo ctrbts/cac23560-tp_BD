@@ -1,0 +1,11 @@
+CREATE TABLE integrador_cac.oradores (
+	id_orador INT auto_increment NOT NULL,
+	nombre varchar(100) NULL,
+	apellido varchar(100) NULL,
+	email varchar(255) NOT NULL,
+	tema varchar(100) NOT NULL,
+	fecha_alta TIMESTAMP DEFAULT current_timestamp() NOT NULL
+)
+ENGINE=InnoDB
+DEFAULT CHARSET=utf8mb4
+COLLATE=utf8mb4_general_ci;
